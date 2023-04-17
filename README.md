@@ -1,5 +1,7 @@
 # JWT Authentication + Node.js Project
 
+> 此專案的建構流程可以參考 [Mango Blog](https://et860525.github.io/posts/jwt-authentication-init/)
+
 # Getting started
 
 1. Download project
